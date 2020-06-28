@@ -1,0 +1,21 @@
+{
+  "name": "sorting_hat",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt --hostname 0.0.0.0",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "export": "nuxt export",
+    "serve": "nuxt serve"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "nuxt": "^2.13.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.2",
+    "stylus-loader": "^3.0.2",
+    "stylus": "^0.54.7"
+  }
+}
