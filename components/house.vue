@@ -52,4 +52,12 @@
   .divider
     width 25%
     color white
+
+  @media screen and (max-width: 500px)
+    .house
+      font-size 25px
+      padding-top 10px
+
+    .divider
+      width 50%
 </style>
